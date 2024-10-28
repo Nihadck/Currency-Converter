@@ -1,4 +1,4 @@
-const API_URL = "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies.json";
+const API_URL = "https://open.er-api.com/v6/latest/";
 
 document.addEventListener("DOMContentLoaded", () => {
   populateCurrencyDropdowns();
